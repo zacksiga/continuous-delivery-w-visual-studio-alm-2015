@@ -12,6 +12,7 @@ namespace QBox.App
 		public App ()
 		{
 			// The root page of your application
+            //Hi from zack
 			MainPage = new ContentPage {
 				Content = new StackLayout {
 					VerticalOptions = LayoutOptions.Center,
